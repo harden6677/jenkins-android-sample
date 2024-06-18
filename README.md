@@ -1,2 +1,2 @@
 # jenkins-android-sample
-我的第一个安卓项目
+For an introductory tutorial on how to use Jenkins to build a simple Android application.
